@@ -1,2 +1,2 @@
 # kawai-todo
-react native.
+react native study
